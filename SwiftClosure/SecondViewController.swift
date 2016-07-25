@@ -34,6 +34,10 @@ class SecondViewController: UIViewController {
         self.view.addSubview(btn);
     }
 
+
+    /**
+     测试
+     */
     func btnClick() -> Void {
         if (secondViewControllerClosure != nil) {
             secondViewControllerClosure!(string: secondStr);
