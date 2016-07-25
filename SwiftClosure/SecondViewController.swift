@@ -36,7 +36,7 @@ class SecondViewController: UIViewController {
 
 
     /**
-     测试1
+     测试111111
      */
     func btnClick() -> Void {
         if (secondViewControllerClosure != nil) {
@@ -47,7 +47,7 @@ class SecondViewController: UIViewController {
         }
     }
     /**
-     222
+     222222222
      */
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
