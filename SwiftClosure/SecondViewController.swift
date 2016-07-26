@@ -36,7 +36,7 @@ class SecondViewController: UIViewController {
 
 
     /**
-     测试111111
+     测试111111.......
      */
     func btnClick() -> Void {
         if (secondViewControllerClosure != nil) {
