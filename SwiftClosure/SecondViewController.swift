@@ -47,7 +47,7 @@ class SecondViewController: UIViewController {
         }
     }
     /**
-     222222222
+     222222222333333
      */
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
